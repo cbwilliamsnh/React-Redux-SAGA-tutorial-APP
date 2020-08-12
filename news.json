@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "cnn",
+    "sortBy": "top",
+    "articles": [
+        {
+            "author": "By Melissa Macaya, <a href=\"/profiles/meg-wagner\">Meg Wagner</a>, Mike Hayes, <a href=\"/profiles/veronica-rocha\">Veronica Rocha</a> and <a href=\"/profiles/fernando-alfonso-iii\">Fernando Alfonso III</a>, CNN",
+            "title": "Live updates: Biden to pick VP for 2020 election ballot",
+            "description": "Joe Biden, the presumptive Democratic nominee, is expected to announce his running mate for the 2020 election ballot. Follow here for the latest.",
+            "url": "https://www.cnn.com/politics/live-news/2020-election-biden-vp-pick/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200731104103-biden-campaign-0728-super-tease.jpg",
+            "publishedAt": "2020-08-11T18:41:19Z"
+        },
+        {
+            "author": "Jeff Zeleny, Senior Washington Correspondent",
+            "title": "Joe Biden selects his running mate with announcement coming as early as Tuesday",
+            "description": "Joe Biden has selected his running mate, revealing to top advisers on Tuesday the woman he will invite to join his ticket, two people familiar with the matter tell CNN.",
+            "url": "http://us.cnn.com/2020/08/11/politics/biden-vp-pick/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200303200705-102-joe-biden-lead-image-super-tease.jpg",
+            "publishedAt": "2020-08-11T18:44:02Z"
+        },
+        {
+            "author": "Kevin Liptak, CNN",
+            "title": "Trump says Americans will have to 'learn Chinese' if Biden wins but offers little condemnation of Beijing",
+            "description": "In a pair of interviews on Tuesday, President Donald Trump railed against his competitor for being weak on China -- but stopped short himself of condemning China's repression of its Uyghur ethnic minority or its crackdown on political freedoms in Hong Kong.",
+            "url": "http://us.cnn.com/2020/08/11/politics/trump-china-biden-learn-chinese/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200810111938-01-donald-trump-0808-super-tease.jpg",
+            "publishedAt": "2020-08-11T16:55:04Z"
+        },
+        {
+            "author": null,
+            "title": "What Joe Biden says he is looking for in his VP pick - CNN Video",
+            "description": "Democratic presumptive nominee Joe Biden describes what he's looking for in a vice president and why he and President Barack Obama were so close.",
+            "url": "http://us.cnn.com/videos/politics/2020/07/17/joe-biden-vp-pick-cs-orig.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200630133336-01-biden-0630-super-tease.jpg",
+            "publishedAt": null
+        },
+        {
+            "author": "Analysis by Chris Cillizza, CNN Editor-at-large",
+            "title": "This 2020 nightmare scenario is looking more and more likely",
+            "description": "Only 84 days until the 2020 presidential election!",
+            "url": "http://us.cnn.com/2020/08/11/politics/biden-trump-2020-election-november-3/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200428161155-elections-us-super-tease.jpg",
+            "publishedAt": "2020-08-11T17:18:17Z"
+        },
+        {
+            "author": null,
+            "title": "Trump vs Biden on climate change - CNN Video",
+            "description": "President Donald Trump has expressed doubt over the reasons for climate change while Joe Biden has called it an \"existential threat.\"",
+            "url": "http://us.cnn.com/videos/politics/2020/08/10/trump-vs-biden-climate-change-policies-mh-orig.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200810183716-trump-vs-biden-climate-2-super-tease.jpg",
+            "publishedAt": null
+        },
+        {
+            "author": "Analysis by Stephen Collinson with Caitlin Hu, CNN",
+            "title": "Analysis: Trump, satire, and Europe's 'last dictator'",
+            "description": "Satire is now dead.",
+            "url": "http://us.cnn.com/2020/08/11/world/meanwhile-in-america-august-11-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200703232121-trump-mount-rushmore-super-tease.jpg",
+            "publishedAt": "2020-08-11T19:04:13Z"
+        },
+        {
+            "author": "Ellie Kaufman, CNN",
+            "title": "Postmarks come under scrutiny as states prepare for mail-in voting",
+            "description": "States are bracing for controversy as they work to ensure that Postal Service postmarks and other tracking will back efforts to prove mail-in votes are sent on time. They're seeking to avoid lawsuits and other issues about unclear markings that have dogged some primaries and could mar ballot counts come Election Day.",
+            "url": "http://us.cnn.com/2020/08/11/politics/postmarks-mail-in-ballots/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200807173506-02-postmarks-mail-in-ballots-super-tease.jpg",
+            "publishedAt": "2020-08-11T13:44:29Z"
+        },
+        {
+            "author": "Christina Maxouris, CNN",
+            "title": "This 21-year-old thought he had overcome a mild case of Covid-19. Then he went into organ failure",
+            "description": "Spencer Rollyson says he didn't think much of it when he experienced mild coronavirus symptoms in May. Weeks later, the disease almost took his life.",
+            "url": "http://us.cnn.com/2020/08/11/us/covid-survivor-organ-failure/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200811042758-covid-survivor-organ-failure-super-tease.jpg",
+            "publishedAt": "2020-08-11T09:01:46Z"
+        },
+        {
+            "author": "By <a href=\"/profiles/joshua-berlinger\">Joshua Berlinger</a>, Adam Renton, Melissa Macaya, <a href=\"/profiles/meg-wagner\">Meg Wagner</a> and Mike Hayes, CNN",
+            "title": "Coronavirus update: Latest news from around the world",
+            "description": "The coronavirus pandemic has brought countries to a standstill. In many places, as countries reopen, Covid-19 cases are on the rise. Follow here for the latest.",
+            "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-08-11-20-intl/h_9a45ea504fb8a071741674265d3d8586",
+            "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/fb7e6da5-f03c-40b2-80a2-40de7b5e1049.jpg",
+            "publishedAt": "2020-08-11T04:00:30Z"
+        }
+    ]
+}
